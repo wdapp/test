@@ -1,4 +1,4 @@
 var aaa = "hello world"
 var fun = function(){
-	
+	console.log(111)
 }
