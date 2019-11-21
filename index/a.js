@@ -4,3 +4,4 @@ var c = 889;
 var d = 123;
 var e = 11111111;
 var s = 555;
+var a = 111;
