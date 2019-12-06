@@ -4,3 +4,4 @@ var fun = function(){
 }
 console.log('hello')
 console.log('fix bug')
+console.log("hahaha")
