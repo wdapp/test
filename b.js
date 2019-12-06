@@ -3,3 +3,4 @@ var fun = function(){
 	console.log(123456)
 }
 console.log('hello')
+console.log('fix bug')
