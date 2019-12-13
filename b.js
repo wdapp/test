@@ -15,7 +15,5 @@ console.log('ccc')
 console.log('ddd')
 console.log('eee')
 console.log('fff')
-<<<<<<< HEAD
-=======
 console.log('ggg')
->>>>>>> parent of fd528b1... hhh
+
