@@ -9,3 +9,4 @@ console.log("index 7")
 123
 456
 789
+10
