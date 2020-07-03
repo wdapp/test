@@ -13,3 +13,7 @@ console.log("index 7")
 12
 13
 11
+console.log("1");
+console.log("2");
+console.log("3");
+console.log("4");
